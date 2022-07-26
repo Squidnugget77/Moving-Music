@@ -5,7 +5,9 @@ root = tree.getroot
 
 #   Finds the name of the song {}
 def find_name():
-    
+    pass
+
+
 #   Find the artist of the song {}
 
 #   Find the album name {}
