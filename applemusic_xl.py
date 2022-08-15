@@ -1,25 +1,34 @@
 #   Setup tree { https://docs.python.org/3/library/xml.etree.elementtree.html }
 import xml.etree.ElementTree as ET
-tree = ET.parse('Library.xml')
+tree = ET.parse('Rock.xml')
 root = tree.getroot
-#   Finds the name of the song {}
+tags = root().iter()
+#   Finds the name of the song {https://www.datacamp.com/tutorial/python-xml-elementtree}
 def find_name():
     key = 'Name'
-    tags = root().iter()
     songs = []
     for elem in tags:
         if key == elem.text:
-            next_node = next(tags)
-            songs.append(next_node.text)
+            next_elem = next(tags)
+            songs.append(next_elem.text)
+    del songs[-1]
+    return songs
 
-    print(songs)
-
-        
-
-    
-
-#   Find the artist of the song {}
-
-#   Find the album name {}
-
-find_name()
+#   Find the artist of the song {https://www.datacamp.com/tutorial/python-xml-elementtree}
+def find_artist():
+    key = 'Artist'
+    artists = []
+    for elem in tags:
+        if key == elem.text:
+            next_elem = next(tags)
+            artists.append(next_elem.text)
+    return artists
+#   Find the album name {https://www.datacamp.com/tutorial/python-xml-elementtree}
+def find_album():
+    key = 'Album'
+    albums = []
+    for elem in tags:
+        if key == elem.text:
+            next_elem = next(tags)
+            albums.append(next_elem.text)
+    return albums
