@@ -5,6 +5,7 @@ root = tree.getroot
 tags = root().iter()
 #   Finds the name of the song {https://www.datacamp.com/tutorial/python-xml-elementtree}
 def find_name():
+    tags = root().iter()
     key = 'Name'
     songs = []
     for elem in tags:
@@ -16,6 +17,7 @@ def find_name():
 
 #   Find the artist of the song {https://www.datacamp.com/tutorial/python-xml-elementtree}
 def find_artist():
+    tags = root().iter()
     key = 'Artist'
     artists = []
     for elem in tags:
@@ -23,6 +25,7 @@ def find_artist():
             next_elem = next(tags)
             artists.append(next_elem.text)
     return artists
+
 #   Find the album name {https://www.datacamp.com/tutorial/python-xml-elementtree}
 def find_album():
     key = 'Album'
@@ -32,3 +35,7 @@ def find_album():
             next_elem = next(tags)
             albums.append(next_elem.text)
     return albums
+
+print(find_name())
+print(find_artist())
+# print(find_artist())
