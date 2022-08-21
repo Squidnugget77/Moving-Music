@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2022-08-20T00:27:22Z</date>
+	<key>Application Version</key><string>12.12.4.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/C:/Users/lucap/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>213AC278BE04FDDD</string>
+	<key>Tracks</key>
+	<dict>
+		<key>327</key>
+		<dict>
+			<key>Track ID</key><integer>327</integer>
+			<key>Name</key><string>Car Radio</string>
+			<key>Artist</key><string>twenty one pilots</string>
+			<key>Album Artist</key><string>twenty one pilots</string>
+			<key>Composer</key><string>Tyler Joseph</string>
+			<key>Album</key><string>Vessel</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9633382</integer>
+			<key>Total Time</key><integer>267733</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2021-12-26T05:31:05Z</date>
+			<key>Date Added</key><date>2021-12-05T04:56:34Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3742919192</integer>
+			<key>Play Date UTC</key><date>2022-08-10T00:46:32Z</date>
+			<key>Release Date</key><date>2011-07-08T07:00:00Z</date>
+			<key>Normalization</key><integer>3628</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Vessel</string>
+			<key>Sort Artist</key><string>twenty one pilots</string>
+			<key>Sort Name</key><string>Car Radio</string>
+			<key>Persistent ID</key><string>010D4ACFF84ECF81</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/lucap/Music/iTunes/iTunes%20Media/Apple%20Music/twenty%20one%20pilots/Vessel/05%20Car%20Radio.m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>431</key>
+		<dict>
+			<key>Track ID</key><integer>431</integer>
+			<key>Name</key><string>Electric Feel</string>
+			<key>Artist</key><string>MGMT</string>
+			<key>Album Artist</key><string>MGMT</string>
+			<key>Composer</key><string>Andrew VanWyngarden, Ben Goldwasser &#38; Will Berman</string>
+			<key>Album</key><string>Oracular Spectacular</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8912029</integer>
+			<key>Total Time</key><integer>229640</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2022-05-23T02:57:17Z</date>
+			<key>Date Added</key><date>2022-05-27T03:42:14Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3742918924</integer>
+			<key>Play Date UTC</key><date>2022-08-10T00:42:04Z</date>
+			<key>Release Date</key><date>2007-10-02T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Oracular Spectacular</string>
+			<key>Sort Artist</key><string>MGMT</string>
+			<key>Sort Name</key><string>Electric Feel</string>
+			<key>Persistent ID</key><string>9EE52A6B34BEBBBE</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>433</key>
+		<dict>
+			<key>Track ID</key><integer>433</integer>
+			<key>Name</key><string>Cupid's Chokehold / Breakfast In America</string>
+			<key>Artist</key><string>Gym Class Heroes</string>
+			<key>Album Artist</key><string>Gym Class Heroes</string>
+			<key>Composer</key><string>Roger Hodgson, Sam Hollander &#38; Rick Davies</string>
+			<key>Album</key><string>The Papercut Chronicles</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8954735</integer>
+			<key>Total Time</key><integer>243773</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2022-05-23T03:02:34Z</date>
+			<key>Date Added</key><date>2022-05-27T03:42:14Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3742916845</integer>
+			<key>Play Date UTC</key><date>2022-08-10T00:07:25Z</date>
+			<key>Release Date</key><date>2005-02-22T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Papercut Chronicles</string>
+			<key>Sort Artist</key><string>Gym Class Heroes</string>
+			<key>Sort Name</key><string>Cupid's Chokehold / Breakfast In America</string>
+			<key>Persistent ID</key><string>8E9B34EA5A06AB44</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>441</key>
+		<dict>
+			<key>Track ID</key><integer>441</integer>
+			<key>Name</key><string>Monsters of the North</string>
+			<key>Artist</key><string>The National Parks</string>
+			<key>Album Artist</key><string>The National Parks</string>
+			<key>Album</key><string>Until I Live</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8244825</integer>
+			<key>Total Time</key><integer>232853</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2022-05-26T04:57:12Z</date>
+			<key>Date Added</key><date>2022-05-28T00:04:38Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3742919425</integer>
+			<key>Play Date UTC</key><date>2022-08-10T00:50:25Z</date>
+			<key>Release Date</key><date>2015-08-04T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Until I Live</string>
+			<key>Sort Album Artist</key><string>National Parks</string>
+			<key>Sort Artist</key><string>National Parks</string>
+			<key>Sort Name</key><string>Monsters of the North</string>
+			<key>Persistent ID</key><string>7CFD6F732BDCB3E8</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>443</key>
+		<dict>
+			<key>Track ID</key><integer>443</integer>
+			<key>Name</key><string>Carry On</string>
+			<key>Artist</key><string>Fun.</string>
+			<key>Album Artist</key><string>Fun.</string>
+			<key>Composer</key><string>Fun. &#38; Jeff Bhasker</string>
+			<key>Album</key><string>Some Nights</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9752966</integer>
+			<key>Total Time</key><integer>278373</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2022-05-26T05:00:20Z</date>
+			<key>Date Added</key><date>2022-05-28T00:04:38Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3742917123</integer>
+			<key>Play Date UTC</key><date>2022-08-10T00:12:03Z</date>
+			<key>Release Date</key><date>2012-02-21T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Some Nights</string>
+			<key>Sort Artist</key><string>Fun.</string>
+			<key>Sort Name</key><string>Carry On</string>
+			<key>Persistent ID</key><string>77A4E44A0B5C7B1B</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>445</key>
+		<dict>
+			<key>Track ID</key><integer>445</integer>
+			<key>Name</key><string>Unbelievers</string>
+			<key>Artist</key><string>Vampire Weekend</string>
+			<key>Album Artist</key><string>Vampire Weekend</string>
+			<key>Composer</key><string>Ezra Koenig</string>
+			<key>Album</key><string>Modern Vampires of the City</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7303850</integer>
+			<key>Total Time</key><integer>202666</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2022-05-26T05:02:40Z</date>
+			<key>Date Added</key><date>2022-05-28T00:04:38Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3742918494</integer>
+			<key>Play Date UTC</key><date>2022-08-10T00:34:54Z</date>
+			<key>Release Date</key><date>2013-05-08T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Modern Vampires of the City</string>
+			<key>Sort Artist</key><string>Vampire Weekend</string>
+			<key>Sort Name</key><string>Unbelievers</string>
+			<key>Persistent ID</key><string>22F1E53C3B368A3F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>479</key>
+		<dict>
+			<key>Track ID</key><integer>479</integer>
+			<key>Name</key><string>lovely</string>
+			<key>Artist</key><string>Billie Eilish &#38; Khalid</string>
+			<key>Album Artist</key><string>Billie Eilish &#38; Khalid</string>
+			<key>Composer</key><string>Billie Eilish, FINNEAS &#38; Khalid Robinson</string>
+			<key>Album</key><string>lovely - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7165807</integer>
+			<key>Total Time</key><integer>200186</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2022-08-07T01:45:06Z</date>
+			<key>Date Added</key><date>2022-08-07T21:56:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3742918694</integer>
+			<key>Play Date UTC</key><date>2022-08-10T00:38:14Z</date>
+			<key>Release Date</key><date>2018-04-19T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>lovely - Single</string>
+			<key>Sort Artist</key><string>Billie Eilish &#38; Khalid</string>
+			<key>Sort Name</key><string>lovely</string>
+			<key>Persistent ID</key><string>87644A718780849B</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>🍄 Respectable 🍄 </string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>655</integer>
+			<key>Playlist Persistent ID</key><string>F020678CA04DA45C</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>431</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>433</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>441</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>443</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>445</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>479</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>327</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

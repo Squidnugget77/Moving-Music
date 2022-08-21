@@ -1,8 +1,8 @@
 #   Setup tree { https://docs.python.org/3/library/xml.etree.elementtree.html }
 import xml.etree.ElementTree as ET
-tree = ET.parse('Rock.xml')
+library = input('What is the library name?') + '.xml'
+tree = ET.parse(library)
 root = tree.getroot
-tags = root().iter()
 #   Finds the name of the song {https://www.datacamp.com/tutorial/python-xml-elementtree}
 def find_name():
     tags = root().iter()
@@ -28,6 +28,7 @@ def find_artist():
 
 #   Find the album name {https://www.datacamp.com/tutorial/python-xml-elementtree}
 def find_album():
+    tags = root().iter()
     key = 'Album'
     albums = []
     for elem in tags:
@@ -35,7 +36,3 @@ def find_album():
             next_elem = next(tags)
             albums.append(next_elem.text)
     return albums
-print(find_artist())
-
-print(find_name())
-# print(find_artist())

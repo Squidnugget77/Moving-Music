@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2022-08-20T00:27:02Z</date>
+	<key>Application Version</key><string>12.12.4.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/C:/Users/lucap/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>213AC278BE04FDDD</string>
+	<key>Tracks</key>
+	<dict>
+		<key>337</key>
+		<dict>
+			<key>Track ID</key><integer>337</integer>
+			<key>Name</key><string>Freaks</string>
+			<key>Artist</key><string>Surf Curse</string>
+			<key>Album Artist</key><string>Surf Curse</string>
+			<key>Composer</key><string>Jacob Rubeck &#38; Nicholas Rattigan</string>
+			<key>Album</key><string>Freaks - Single</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5443711</integer>
+			<key>Total Time</key><integer>147062</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2021-12-26T05:31:08Z</date>
+			<key>Date Added</key><date>2021-12-26T05:27:26Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3742915677</integer>
+			<key>Play Date UTC</key><date>2022-08-09T23:47:57Z</date>
+			<key>Release Date</key><date>2015-05-10T12:00:00Z</date>
+			<key>Normalization</key><integer>2337</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Freaks - Single</string>
+			<key>Sort Artist</key><string>Surf Curse</string>
+			<key>Sort Name</key><string>Freaks</string>
+			<key>Persistent ID</key><string>AFE291027561C074</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/lucap/Music/iTunes/iTunes%20Media/Apple%20Music/Surf%20Curse/Freaks%20-%20Single/01%20Freaks.m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>339</key>
+		<dict>
+			<key>Track ID</key><integer>339</integer>
+			<key>Name</key><string>Looking Out for You</string>
+			<key>Artist</key><string>Joy Again</string>
+			<key>Album Artist</key><string>Joy Again</string>
+			<key>Composer</key><string>William Shea, William DiSerafino, Edward Blaise O'Brien, Sean Henry Posila, Noah Burke &#38; Caleb Laven</string>
+			<key>Album</key><string>Looking Out for You - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6474287</integer>
+			<key>Total Time</key><integer>179499</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2021-12-26T05:31:08Z</date>
+			<key>Date Added</key><date>2021-12-26T05:27:26Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3742916092</integer>
+			<key>Play Date UTC</key><date>2022-08-09T23:54:52Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2021-12-26T21:09:11Z</date>
+			<key>Release Date</key><date>2015-11-06T12:00:00Z</date>
+			<key>Normalization</key><integer>5401</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Looking Out for You - Single</string>
+			<key>Sort Artist</key><string>Joy Again</string>
+			<key>Sort Name</key><string>Looking Out for You</string>
+			<key>Persistent ID</key><string>86072A24C3F11660</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/lucap/Music/iTunes/iTunes%20Media/Apple%20Music/Joy%20Again/Looking%20Out%20for%20You%20-%20Single/01%20Looking%20Out%20for%20You.m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>359</key>
+		<dict>
+			<key>Track ID</key><integer>359</integer>
+			<key>Name</key><string>Young</string>
+			<key>Artist</key><string>Vacations</string>
+			<key>Album Artist</key><string>Vacations</string>
+			<key>Composer</key><string>Campbell James Burns</string>
+			<key>Album</key><string>Vibes - EP</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6753070</integer>
+			<key>Total Time</key><integer>189160</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2022-02-02T05:03:50Z</date>
+			<key>Date Added</key><date>2022-02-19T03:26:23Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3742915530</integer>
+			<key>Play Date UTC</key><date>2022-08-09T23:45:30Z</date>
+			<key>Release Date</key><date>2016-12-09T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Vibes - EP</string>
+			<key>Sort Artist</key><string>Vacations</string>
+			<key>Sort Name</key><string>Young</string>
+			<key>Persistent ID</key><string>66B947789CC56C9E</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>421</key>
+		<dict>
+			<key>Track ID</key><integer>421</integer>
+			<key>Name</key><string>Notion</string>
+			<key>Artist</key><string>The Rare Occasions</string>
+			<key>Album Artist</key><string>The Rare Occasions</string>
+			<key>Album</key><string>Notion - Single</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7030434</integer>
+			<key>Total Time</key><integer>195120</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2022-04-20T12:06:11Z</date>
+			<key>Date Added</key><date>2022-05-11T00:12:26Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3742915913</integer>
+			<key>Play Date UTC</key><date>2022-08-09T23:51:53Z</date>
+			<key>Release Date</key><date>2016-08-05T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Notion - Single</string>
+			<key>Sort Album Artist</key><string>Rare Occasions</string>
+			<key>Sort Artist</key><string>Rare Occasions</string>
+			<key>Sort Name</key><string>Notion</string>
+			<key>Persistent ID</key><string>A780C69015CA4E06</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>465</key>
+		<dict>
+			<key>Track ID</key><integer>465</integer>
+			<key>Name</key><string>Backwards</string>
+			<key>Artist</key><string>Forrest.</string>
+			<key>Album Artist</key><string>Forrest.</string>
+			<key>Composer</key><string>Matt Jordan, Forrest Frank &#38; Tim Aspan</string>
+			<key>Album</key><string>Effortless</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6239771</integer>
+			<key>Total Time</key><integer>173283</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2022-06-29T06:36:33Z</date>
+			<key>Date Added</key><date>2022-07-05T21:01:11Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3742915007</integer>
+			<key>Play Date UTC</key><date>2022-08-09T23:36:47Z</date>
+			<key>Release Date</key><date>2020-07-24T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Effortless</string>
+			<key>Sort Artist</key><string>Forrest.</string>
+			<key>Sort Name</key><string>Backwards</string>
+			<key>Persistent ID</key><string>CA2EE8AB4EC36F28</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>473</key>
+		<dict>
+			<key>Track ID</key><integer>473</integer>
+			<key>Name</key><string>I Ain't Worried</string>
+			<key>Artist</key><string>OneRepublic</string>
+			<key>Album Artist</key><string>Lorne Balfe, Harold Faltermeyer, Lady Gaga &#38; Hans Zimmer</string>
+			<key>Composer</key><string>Ryan Tedder, Brent Kutzle, Tyler Spry, John Eriksson, Peter Morén &#38; Björn Yttling</string>
+			<key>Album</key><string>Top Gun: Maverick (Music from the Motion Picture)</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5469102</integer>
+			<key>Total Time</key><integer>148485</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Date Modified</key><date>2022-08-03T01:42:35Z</date>
+			<key>Date Added</key><date>2022-08-06T21:24:33Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>19</integer>
+			<key>Play Date</key><integer>3742915155</integer>
+			<key>Play Date UTC</key><date>2022-08-09T23:39:15Z</date>
+			<key>Release Date</key><date>2022-05-27T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Top Gun: Maverick (Music from the Motion Picture)</string>
+			<key>Sort Artist</key><string>OneRepublic</string>
+			<key>Sort Name</key><string>I Ain't Worried</string>
+			<key>Persistent ID</key><string>89A038F3673684A8</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>475</key>
+		<dict>
+			<key>Track ID</key><integer>475</integer>
+			<key>Name</key><string>Santeria</string>
+			<key>Artist</key><string>Sublime</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Composer</key><string>Floyd Gaugh, Eric Wilson &#38; Bradley Nowell</string>
+			<key>Album</key><string>pov: ur on a beach</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6806970</integer>
+			<key>Total Time</key><integer>185786</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>1996</integer>
+			<key>Date Modified</key><date>2022-08-04T00:18:46Z</date>
+			<key>Date Added</key><date>2022-08-06T21:24:33Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3742915341</integer>
+			<key>Play Date UTC</key><date>2022-08-09T23:42:21Z</date>
+			<key>Release Date</key><date>1996-07-01T12:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>pov: ur on a beach</string>
+			<key>Sort Artist</key><string>Sublime</string>
+			<key>Sort Name</key><string>Santeria</string>
+			<key>Persistent ID</key><string>6676967C044F92A4</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>491</key>
+		<dict>
+			<key>Track ID</key><integer>491</integer>
+			<key>Name</key><string>Lazy</string>
+			<key>Artist</key><string>Surfaces</string>
+			<key>Album Artist</key><string>Surfaces</string>
+			<key>Composer</key><string>Colin Padalecki &#38; Forrest Frank</string>
+			<key>Album</key><string>Horizons</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6555711</integer>
+			<key>Total Time</key><integer>181562</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2022-08-12T03:16:15Z</date>
+			<key>Date Added</key><date>2022-08-14T21:49:01Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2020-01-17T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Horizons</string>
+			<key>Sort Artist</key><string>Surfaces</string>
+			<key>Sort Name</key><string>Lazy</string>
+			<key>Persistent ID</key><string>2EB77A4D96CE6E21</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>📚 It’s 2:25 📚</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>692</integer>
+			<key>Playlist Persistent ID</key><string>BED9D8D9ABC040AC</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>339</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>337</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>359</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>421</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>465</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>473</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>475</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>491</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
