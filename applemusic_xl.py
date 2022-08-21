@@ -35,7 +35,7 @@ def find_album():
             next_elem = next(tags)
             albums.append(next_elem.text)
     return albums
+print(find_artist())
 
 print(find_name())
-print(find_artist())
 # print(find_artist())
