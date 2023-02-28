@@ -1,6 +1,4 @@
 #   Extra:
-from venv import create
-from webbrowser import get
 from dotenv import load_dotenv
 import os
 load_dotenv()
@@ -25,8 +23,9 @@ def create_playlist(username):
     if token:
         sp = spotipy.Spotify(auth=token)
         sp.trace = False
-        playlists = sp.user_playlist_create(username, playlist_name)
+        playlists = sp.user_playlist_create(username, playlist_name,False)
         return playlists['id']
+        hi = sp.user_playlist_create
 
 def get_song_id(songs,artists,albums):
     song_ids = []
@@ -50,7 +49,13 @@ def get_song_id(songs,artists,albums):
         del albums[0]
 
     print("Finished")
+<<<<<<< HEAD
     print(ex_songs)
+=======
+    print("Songs Requiring Manual Add: ")
+    print("Songs: ",ex_songs)
+    print("Albums: ",ex_albums)
+>>>>>>> 001643a42a1bda20f589ecc78751074ea38200c8
     return final_ids
 
 def add_songs(username, song_ids, pl_id):
