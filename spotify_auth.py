@@ -50,6 +50,7 @@ def get_song_id(songs,artists,albums):
         del albums[0]
 
     print("Finished")
+    print(ex_songs)
     return final_ids
 
 def add_songs(username, song_ids, pl_id):
