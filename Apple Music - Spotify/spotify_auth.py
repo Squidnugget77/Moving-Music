@@ -49,13 +49,9 @@ def get_song_id(songs,artists,albums):
         del albums[0]
 
     print("Finished")
-<<<<<<< HEAD
-    print(ex_songs)
-=======
     print("Songs Requiring Manual Add: ")
     print("Songs: ",ex_songs)
     print("Albums: ",ex_albums)
->>>>>>> 001643a42a1bda20f589ecc78751074ea38200c8
     return final_ids
 
 def add_songs(username, song_ids, pl_id):
